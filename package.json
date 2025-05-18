@@ -1,7 +1,6 @@
 {
   "name": "turbo-monorepo",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
     "build": "pnpm -- turbo run build",
     "build:turbo": "pnpm run --filter=cli build",

@@ -24,5 +24,6 @@
       "fileMatch": ["turbo.json"],
       "url": "./packages/turbo-types/schemas/schema.json"
     }
-  ]
+  ],
+  "DockerRun.DisableAutoGenerateConfig": true
 }
